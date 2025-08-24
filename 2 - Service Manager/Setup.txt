@@ -1,5 +1,0 @@
-nssm.exe install MyNodeServer
-
-Path - C:\Program Files\nodejs\node.exe
-Startup Directory - C:\server
-Arguments - C:\server\server.js
