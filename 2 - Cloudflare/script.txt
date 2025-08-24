@@ -1,0 +1,3 @@
+link - https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.msi
+
+cloudflared.exe service install eyJhIjoiNTk2NmVmODAwMmI3N2E2MDIyYWE4ZDY5NmY4MjkyMjYiLCJ0IjoiMzY1YzkzOWMtYWEyZC00ODQ0LWFhMWEtZTQ0YzQ2MzMwY2RkIiwicyI6Ik1URTFNREExTWpndFlqYzFZaTAwWXpFNExXSmxOakF0TVdRek9XTXlOV1JtTldaaiJ9
